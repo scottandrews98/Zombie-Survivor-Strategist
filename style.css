@@ -1,0 +1,79 @@
+body{
+    width: 600px;
+    background-color: #151212;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: sans-serif;
+}
+
+.title{
+    text-align: center;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.daysLeft{
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    background-color: #874747;
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+}
+
+#firstButton{
+    width: 200px;
+    float: left;
+    background-color:#874747; 
+    text-align: center;
+    color: white;
+}
+
+#secondButton{
+    width: 200px;
+    float: right;
+    background-color:#874747; 
+    text-align: center;
+    color: white;
+    margin-top: -2px;
+}
+
+#row{
+    width: 100%;
+    height: 100px;
+}
+
+.input{
+    width: 200px;
+    height: 80px;
+}
+
+.input2{
+    float: right;
+    height: 80px;
+    width: 200px;
+}
+
+
+#centerRow{
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px;
+}
+
+#text{
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    border: 3px solid white;
+    padding: 10px;
+}
+
+#items{
+    color: white;
+    text-align: center;
+    font-weight: 600;
+}
